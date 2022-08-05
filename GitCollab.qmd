@@ -5,3 +5,5 @@ editor: visual
 ---
 
 What up what up
+
+Calculate the derivative: $$x^2$$
